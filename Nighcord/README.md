@@ -28,6 +28,6 @@ This code seems to no longer be present in new releases, however
   It also has questionable legality due to removing attribution. Every line of code in Vencord is owned by whoever wrote it (that's over 200 people in total!). Removing history makes it impossible to tell who wrote what.
 - Their developers are skids and have absolutely no idea what they're doing. All Nightcord code seems to be AI-generated, is of horrible quality and uses practices that worsen security and even risk your Discord Account.
 - As of today, one of the main developers of Nightcord was flagged for fraud/spam by Discord. Is this really who you want to be trusting?
-  <img width="1422" height="684" alt="image" src="https://gist.github.com/user-attachments/assets/000c33ca-9b07-48e8-90b4-ac3c5ce846d5" />
+  <img width="1422" height="684" alt="image" src="https://raw.githubusercontent.com/denisxd7/awareness/refs/heads/main/Nighcord/B0s6oj7D73.png" />
 
   Credits to [Vendicated](https://gist.github.com/Vendicated)
