@@ -30,5 +30,6 @@ This code seems to no longer be present in new releases, however
 - As of today, one of the main developers of Nightcord was flagged for fraud/spam by Discord. Is this really who you want to be trusting?
   <img width="1422" height="684" alt="image" src="https://raw.githubusercontent.com/denisxd7/awareness/refs/heads/main/Nightcord/B0s6oj7D73.png" />
 
-  In this directory you will have the suspected source code. This is so we have a backup here if the other link doesn't work anymore or gets taken down.
-  Credits to [Vendicated](https://gist.github.com/Vendicated)
+Notes by denisxd7:
+- In this directory you will have the suspected source code. This is so we have a backup here if the other link doesn't work anymore or gets taken down.
+- Credits to [Vendicated](https://gist.github.com/Vendicated)
