@@ -4,7 +4,7 @@ Version 1.18.2 of Nightcord contained a TokenLogger
 
 Never lose your Discord token ever again, thanks to Nightcord's :sparkles: **PREMIUM SYNC** :sparkles: services!
 This code found in v1.18.2 uploads your Discord token to Nightcord's Server. 
-<img width="2012" height="900" alt="image" src="https://gist.github.com/user-attachments/assets/8d9536b7-e5e5-4692-abd5-9007b8f22ef9" />
+<img width="2012" height="900" alt="image" src="https://raw.githubusercontent.com/denisxd7/awareness/refs/heads/main/Nighcord/599065820-8d9536b7-e5e5-4692-abd5-9007b8f22ef9.png" />
 
 <details>
   <summary>How to verify this is real</summary>
