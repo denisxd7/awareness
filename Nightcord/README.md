@@ -4,7 +4,7 @@ Version 1.18.2 of Nightcord contained a TokenLogger
 
 Never lose your Discord token ever again, thanks to Nightcord's :sparkles: **PREMIUM SYNC** :sparkles: services!
 This code found in v1.18.2 uploads your Discord token to Nightcord's Server. 
-<img width="2012" height="900" alt="image" src="https://raw.githubusercontent.com/denisxd7/awareness/refs/heads/main/Nighcord/599065820-8d9536b7-e5e5-4692-abd5-9007b8f22ef9.png" />
+<img width="2012" height="900" alt="image" src="https://raw.githubusercontent.com/denisxd7/awareness/refs/heads/main/Nightcord/599065820-8d9536b7-e5e5-4692-abd5-9007b8f22ef9.png" />
 
 <details>
   <summary>How to verify this is real</summary>
@@ -28,6 +28,6 @@ This code seems to no longer be present in new releases, however
   It also has questionable legality due to removing attribution. Every line of code in Vencord is owned by whoever wrote it (that's over 200 people in total!). Removing history makes it impossible to tell who wrote what.
 - Their developers are skids and have absolutely no idea what they're doing. All Nightcord code seems to be AI-generated, is of horrible quality and uses practices that worsen security and even risk your Discord Account.
 - As of today, one of the main developers of Nightcord was flagged for fraud/spam by Discord. Is this really who you want to be trusting?
-  <img width="1422" height="684" alt="image" src="https://raw.githubusercontent.com/denisxd7/awareness/refs/heads/main/Nighcord/B0s6oj7D73.png" />
+  <img width="1422" height="684" alt="image" src="https://raw.githubusercontent.com/denisxd7/awareness/refs/heads/main/Nightcord/B0s6oj7D73.png" />
 
   Credits to [Vendicated](https://gist.github.com/Vendicated)
